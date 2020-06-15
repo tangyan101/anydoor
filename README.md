@@ -1,2 +1,2 @@
 # anydoor
-node Js anydor(任意门)
+node Js anydoor(任意门)
