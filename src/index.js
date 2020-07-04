@@ -1,4 +1,4 @@
-console.log(123);
+console.info(123);
 
 /* eslint-disable no-console */
 
