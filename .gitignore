@@ -1,0 +1,4 @@
+# 不要上传到git上的文件在这里写入
+LICENSE
+node_modules/
+build/

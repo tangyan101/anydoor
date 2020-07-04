@@ -1,0 +1,31 @@
+{
+  "name": "anydoor",
+  "version": "1.0.0",
+  "description": "node Js anydoor(任意门)",
+  "main": "/src/index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "fix": "eslint --fix ."
+  },
+  "pre-commit": [
+    "fix",
+    "lint"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tangyan101/anydoor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tangyan101/anydoor/issues"
+  },
+  "homepage": "https://github.com/tangyan101/anydoor#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.3.1",
+    "eslint-plugin-vue": "^6.2.2",
+    "pre-commit": "^1.2.2"
+  }
+}
