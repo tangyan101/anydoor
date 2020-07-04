@@ -1,7 +1,7 @@
-console.log(123);;
+console.log(123);
 
 /* eslint-disable no-console */
 
-console.log("222");;
+console.log("222");
 
-/* eslint-enable */
+/* eslint-enable no-console */
